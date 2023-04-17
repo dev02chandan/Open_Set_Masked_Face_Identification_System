@@ -9,3 +9,10 @@ This project was inspired by the COVID-19 pandemic, which was a serious health r
 1. Aryan Bhapkar
 2. Manasi Pawaskar
 3. Dev Chandan
+
+
+## Dataset
+We created our dataset by combining two Datasets which were publically available.
+CASIA Web Face and CASIA Web Masked Face
+Here is the link to our Dataset: 
+https://drive.google.com/file/d/1yMgSIg9bnUwzot8ZFcxXcjmXl_OSWiyT/view?usp=share_link
