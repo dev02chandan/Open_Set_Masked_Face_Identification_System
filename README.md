@@ -4,7 +4,7 @@ From healthcare workers to working professionals, wearing a facial mask became a
 To achieve this, we endeavored to create a custom dataset by combining two publicly available datasets and experimented with various state-of-the-art models through transfer learning to get the best solution. The results demonstrate the effectiveness of our approach, showcasing the potential of open set masked face identification systems in addressing security challenges in diverse domains, from healthcare facilities to corporate environments. We saw a 65% accuracy in closed set identification along with a **False Accept Rate (FAR) of 0.096** and **False Reject Rate (FRR) 0.102** of at a threshold of 0.94 for open set identification. Our findings aspire to contribute to a safer and more secure
 future as we navigate the new normal of mask-wearing in a post COVID-19 world.
 
-![Uploading 7.png…]()
+(img.png)
 
 ## Contributors
 
