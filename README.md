@@ -2,8 +2,6 @@
 
 In response to the COVID-19 pandemic, the widespread adoption of face masks presented unique challenges to facial recognition systems. Our research focuses on advancing the efficiency of these systems in distinguishing between genuine individuals and imposters, even when masks obscure facial features. We introduce a novel dataset and present our findings, demonstrating an improvement in the accuracy of imposter classification.
 
-![Masked Face Recognition System](https://mobidev.biz/wp-content/uploads/2023/03/how-masked-face-recognition-works.png)
-
 
 <p align='center'>
 <img width="837" alt="image" src="https://mobidev.biz/wp-content/uploads/2023/03/how-masked-face-recognition-works.png">
