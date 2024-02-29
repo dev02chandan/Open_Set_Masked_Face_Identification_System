@@ -23,7 +23,7 @@ Access our comprehensive dataset [here](https://drive.google.com/file/d/1yMgSIg9
 
 ## Research Presentations and Paper
 
-- **Initial Findings Presentation**: An overview of our initial hypotheses and research approach. [View Presentation](https://www.canva.com/design/DAFfSnIccLQ/MmD0DOumTdVn39tNuE9t1Q/edit?utm_content=DAFfSnIccLQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **Initial Findings Presentation**: An overview of our initial hypotheses and research approach. [View Presentation](https://www.canva.com/design/DAFfSnIccLQ/aK4Pn_sgNExJVzIVuFG9Vg/view?utm_content=DAFfSnIccLQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 - **Research Paper Presentation**: Detailed insights and references that underpin our research findings. [Explore the Presentation](https://docs.google.com/presentation/d/1nxSF2kWtjcuxbOpirdclmEtanVKwD6VsE2dbr2NGD-o/edit?usp=sharing)
 
